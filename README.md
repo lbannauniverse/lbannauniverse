@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/vLJQn0h.png" width="100%" alt="Data Banner">
-</p>
 
 <h1 align="center">📊 Welcome to My Data World</h1>
 <h3 align="center">Turning numbers into insights, and insights into action 💡</h3>
@@ -26,14 +22,6 @@
   <img src="https://img.shields.io/badge/-Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/-Financial%20Analysis-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/-Data%20Visualization-purple?style=for-the-badge">
-</p>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YourGitHubUsername>&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YourGitHubUsername>&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
