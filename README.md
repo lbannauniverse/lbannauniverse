@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 - 🎯 Passionate about **Data Analysis & Financial Insights**  
-- 📚 Skilled in **Statistics**, **SQL**, **Excel**, **Power BI**, and **Financial Analysis**  
+- 📚 Skilled in **Statistics**, **SQL**, **Excel**, **Power BI**, 
 - 💡 Love transforming complex data into simple, visual stories  
 - 🚀 Exploring predictive analytics & business intelligence  
 - ☕ Big believer in “Data without context is just noise.”
@@ -34,7 +34,6 @@
 
 ## 🚀 Projects I Love to Work On
 - 📊 **Data Dashboards** with Power BI & Excel  
-- 📈 **Financial Models** for decision-making  
 - 📂 **SQL Databases** & data pipelines  
 - 📉 **Statistical Reports** with actionable insights  
 
