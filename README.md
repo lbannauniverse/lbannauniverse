@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/-Financial%20Analysis-CC0000?style=for-the-badge&logo=money&logoColor=white">
-  <img src="https://img.shields.io/badge/-IFRS-0A3161?style=for-the-badge&logo=balance-scale&logoColor=white">
   <img src="https://img.shields.io/badge/-Dashboards-20B2AA?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/-Data%20Visualization-8A2BE2?style=for-the-badge&logo=chart-bar&logoColor=white">
 </p>
